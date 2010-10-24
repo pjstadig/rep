@@ -1,17 +1,13 @@
 # rep
 
-FIXME: write description
+Read, Eval, Print.
 
 ## Usage
 
-FIXME: write
-
-## Installation
-
-FIXME: write
+java -cp rep-1.0.0.jar:clojure.jar rep.main
 
 ## License
 
-Copyright (C) 2010 FIXME
+Copyright (C) 2010 Paul Stadig.
 
 Distributed under the Eclipse Public License, the same as Clojure.
